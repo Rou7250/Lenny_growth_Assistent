@@ -4,6 +4,15 @@ A grounded RAG (Retrieval-Augmented Generation) assistant built over Lenny's Pod
 
 ---
 
+## 🌐 Live Deployments
+
+- **Frontend Application (Vercel)**: [https://lenny-growth-assistent.vercel.app](https://lenny-growth-assistent.vercel.app)
+- **Backend API (Railway)**: [https://positive-optimism-production-b929.up.railway.app](https://positive-optimism-production-b929.up.railway.app)
+  - **Interactive API Docs (Swagger)**: [https://positive-optimism-production-b929.up.railway.app/docs](https://positive-optimism-production-b929.up.railway.app/docs)
+  - **System Health Check**: [https://positive-optimism-production-b929.up.railway.app/api/health](https://positive-optimism-production-b929.up.railway.app/api/health)
+
+---
+
 ## Key Features
 
 - **Strictly Grounded Retrieval**: Answers are grounded directly in podcast transcript chunks with `[Episode: Guest, Timestamp]` citations.
